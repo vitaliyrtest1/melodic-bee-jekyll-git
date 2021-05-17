@@ -14,7 +14,7 @@ sections:
         url: /contact
         style: secondary
     align: left
-    image: images/successful-kangaroo.png
+    image: images/happy-oregano.png
     image_alt: Hero placeholder image
     image_position: right
     has_background: true
