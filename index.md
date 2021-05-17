@@ -14,7 +14,7 @@ sections:
         url: /contact
         style: secondary
     align: left
-    image: images/smart-sycamore.png
+    image: images/good-crane.png
     image_alt: Hero placeholder image
     image_position: right
     has_background: true
