@@ -14,7 +14,7 @@ sections:
         url: /contact
         style: secondary
     align: left
-    image: images/modern-jupiter.png
+    image: images/diligent-iron.png
     image_alt: Hero placeholder image
     image_position: right
     has_background: true
