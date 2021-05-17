@@ -14,7 +14,7 @@ sections:
         url: /contact
         style: secondary
     align: left
-    image: images/modern-octopus.png
+    image: images/successful-kangaroo.png
     image_alt: Hero placeholder image
     image_position: right
     has_background: true
