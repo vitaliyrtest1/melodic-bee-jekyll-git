@@ -14,7 +14,7 @@ sections:
         url: /contact
         style: secondary
     align: left
-    image: images/2.png
+    image: images/modern-octopus.png
     image_alt: Hero placeholder image
     image_position: right
     has_background: true
