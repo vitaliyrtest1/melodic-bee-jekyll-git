@@ -21,7 +21,7 @@ sections:
     background:
       background_color: blue
       background_image: images/diagonal-lines.svg
-      background_image_opacity: 20
+      background_image_opacity: 20.5
       background_image_size: auto
       background_image_repeat: repeat
   - type: features_section
